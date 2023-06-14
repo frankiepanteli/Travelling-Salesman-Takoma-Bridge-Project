@@ -1,4 +1,4 @@
-# Travelling-Salesman-Takoma-Bridge-Project
+# Python-Monte-Carlo-TSP-Takoma-Bridge-Project
 
 Project executive summary:
 
